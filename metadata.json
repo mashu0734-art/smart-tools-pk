@@ -1,0 +1,7 @@
+{
+  "name": "Smart Tools PK",
+  "description": "Smart Tools PK is a fast, free, and mobile-friendly suite of daily online utility tools including calculators, unit converters, counters, and generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
